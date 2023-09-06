@@ -1,0 +1,22 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências (node_modules)
+node_modules/
+
+# Arquivos de configuração gerados pelo npm ou yarn
+package-lock.json
+yarn.lock
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Diretório de produção
+dist/
